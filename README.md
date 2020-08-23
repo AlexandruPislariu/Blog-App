@@ -1,7 +1,7 @@
 # RESTful Routing
 
 ## Introduction
-  * REST (a mappging between HTTP requests and CRUD operations)
+  * REST (a mappging between HTTP routes and CRUD operations)
   * All 7 RESTful routes (INDEX, NEW, CREATE, SHOW, EDIT, UPDATE, DELETE)
   
 ## INDEX
